@@ -1,0 +1,1 @@
+export default function HomePage() { return <div>Welcome to ALL IN WON</div>; }
